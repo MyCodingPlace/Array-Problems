@@ -71,8 +71,57 @@ Enter the size of an array
 <h6> vi.a. if number is positive</h6>
 <h6> vi.b. if number is positive and negative both</h6>
 <h5> vii. No. of digits present into certain range like 2 in between 20 to 25.</h5>
-<p> MainClassfilename = MainArr7.java </p>
-<p> ArrayOperationfilename = MainArr7.java </p>
+<p> MainClassfilename = HomeAssignment2.java </p>
+<p> ArrayOperationfilename = ArrayAssingment1.java </p>
 </br>
+</p>OUTPUT:</br>
+Enter the size of array
+</br>5
+</br>Enters the elements of an array
+23
+64
+89
+90
+91
+</br>Enter the size of array
+</br>2
+</br>Enters the elements of an array
+22
+68
+</br>Array elements are
+23 64 89 90 91
+</br>22 68
+</br>ZigZag Array elements are
+</br>23 22 64 68 89 90 91
+</br>Insert Number in array
+</br>Enter element
+</br>3
+</br>Enter index position
+</br>3
+</br>23 64 89 3 90 91
+</br>Merge Array elements are
+</br>22 23 64 68 89 90 91
+</br>Delete Array elements are
+</br>Enter index  you want to delete
+</br>3
+</br>23 64 89 91
+</br>Insert Array elements into Array
+</br>Enter the index value where you want to insert arry
+</br>2
+</br>23 64 22 68 89 90 91
 
+</br>23 occured=1
+</br>64 occured=1
+</br>89 occured=1
+</br>90 occured=1
+</br>91 occured=1
+
+</br>23 occured=1
+</br>64 occured=1
+</br>89 occured=1
+</br>90 occured=1
+</br>91 occured=1
+
+</br>2 in b/w 20 to 25=7
+</p>
 <h5> vi. Print the pair of elements whose sum is equal to 'n'. </h5>
