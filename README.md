@@ -26,9 +26,9 @@
 <h5> iii. Print the difference between biggest and smallest no in an array. </h5>
 <h5> iv. Print how many even and odd no are there. </h5>
 <h5> v. Print the reverse of an array. </h5>
-<h5> vi. Print the pair of elements whose sum is equal to 'n'. </h5>
-<p> MainClassfilename = MainArr7.java </p>
-<p> ArrayOperationfilename = MainArr7.java </p>
+
+<p> MainClassfilename =  HomeAssignment.java </p>
+<p> ArrayOperationfilename = ArrayOpAssignment.java </p>
 
 </br>
 <h1>DAY-03</h1>
@@ -45,5 +45,33 @@
 <h5> vii. No. of digits present into certain range like 2 in between 20 to 25.</h5>
 <p> MainClassfilename = MainArr7.java </p>
 <p> ArrayOperationfilename = MainArr7.java </p>
+</br>
+<p> Output:
+Enter the size of an array
+5
+Enter 5 elements
+1
+2
+3
+4
+5
+Enter the size of an array
+3
+Enter 3 elements
+1
+2
+3
+Entered element in array 1
+1 2 3 4 5
+Entered element in array 2
+1 2 3
+Even Element in array =2
+Odd Element in array =3
+Merged Array is
+1 2 3 4 5 1 2 3
+Differnce between Biggest and smallest=4
+Reverse Array is
+5 4 3 2 1
+</p>
 
-
+<h5> vi. Print the pair of elements whose sum is equal to 'n'. </h5>
