@@ -23,8 +23,20 @@
 </br>
 <h4> 2. Print the pair of elements whose sum is equal to 'n'. </h4>
 <p> filename = PairOfElement.java </p>
+<p>output:</br>
+Pair is there
+</br>a[0]=8  a[1]=7
+</p>
 
-<h4> 3. WAJP and perform array opration in another class</h4>
+<h4> 3.WAJP to print the Elements whose sum is equal to length of an array.</h4>
+<p> filename = SumOfElemtsDigitsIsN.java </p>
+<p>output:</br>
+50 is elements whose sum is equal to 5 i.e length of an array.
+</br>41 is elements whose sum is equal to 5 i.e length of an array.
+</br>32 is elements whose sum is equal to 5 i.e length of an array.
+</p>
+
+<h4> 4. WAJP and perform array opration in another class</h4>
 </br>
 <h5> i. Print how many even and odd no are there. </h5>
 <h5> ii. Merge two array elements in single array. </h5>
