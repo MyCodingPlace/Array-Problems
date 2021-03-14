@@ -29,7 +29,35 @@
 
 <p> MainClassfilename =  HomeAssignment.java </p>
 <p> ArrayOperationfilename = ArrayOpAssignment.java </p>
+</br>
 
+<p> Output:
+Enter the size of an array
+5
+</br>Enter 5 elements
+1
+2
+3
+4
+5
+</br>Enter the size of an array
+3
+</br>Enter 3 elements
+1
+2
+3
+</br>Entered element in array 1
+</br>1 2 3 4 5
+</br>Entered element in array 2
+</br>1 2 3
+</br>Even Element in array =2
+</br>Odd Element in array =3
+</br>Merged Array is
+1 2 3 4 5 1 2 3
+</br>Differnce between Biggest and smallest=4
+</br>Reverse Array is
+5 4 3 2 1
+</p>
 </br>
 <h1>DAY-03</h1>
 <h4> 3. WAJP and perform array opration in another class</h4>
@@ -46,32 +74,5 @@
 <p> MainClassfilename = MainArr7.java </p>
 <p> ArrayOperationfilename = MainArr7.java </p>
 </br>
-<p> Output:
-Enter the size of an array
-5
-Enter 5 elements
-1
-2
-3
-4
-5
-Enter the size of an array
-3
-Enter 3 elements
-1
-2
-3
-Entered element in array 1
-1 2 3 4 5
-Entered element in array 2
-1 2 3
-Even Element in array =2
-Odd Element in array =3
-Merged Array is
-1 2 3 4 5 1 2 3
-Differnce between Biggest and smallest=4
-Reverse Array is
-5 4 3 2 1
-</p>
 
 <h5> vi. Print the pair of elements whose sum is equal to 'n'. </h5>
