@@ -17,9 +17,14 @@
 </br>
 <h1>DAY-02</h1>
 <h4> 1. Program to Print the sum of array elements.</h4>
-<p> filename = .java </p>
+<p> MainClassFilename = HomeAssignment1.java </p>
+<p>ArrayOperationfilename = ArrayOperation.java </p> 
+
 </br>
-<h4> 2. WAJP and perform array opration in another class</h4>
+<h4> 2. Print the pair of elements whose sum is equal to 'n'. </h4>
+<p> filename = PairOfElement.java </p>
+
+<h4> 3. WAJP and perform array opration in another class</h4>
 </br>
 <h5> i. Print how many even and odd no are there. </h5>
 <h5> ii. Merge two array elements in single array. </h5>
@@ -124,4 +129,4 @@ Enter the size of array
 
 </br>2 in b/w 20 to 25=7
 </p>
-<h5> vi. Print the pair of elements whose sum is equal to 'n'. </h5>
+
